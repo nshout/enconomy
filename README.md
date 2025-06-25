@@ -1,2 +1,2 @@
 # enconomy
-The Enconomy selfbot source code
+The dumped Enconomy selfbot source code
