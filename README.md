@@ -1,4 +1,4 @@
-The dumped Enconomy selfbot source code
+The Enconomy selfbot source code dumped by me
 
 The shady team behind Enconomy thought it was a good idea to just use 100% of the code from my old Luna selfbot
 
